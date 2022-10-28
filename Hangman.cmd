@@ -1,0 +1,3 @@
+@echo off
+echo Frank Wolter's Hangman is loading ....
+dotnet run
